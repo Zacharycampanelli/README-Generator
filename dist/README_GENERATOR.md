@@ -38,9 +38,8 @@ For any prompts that may require more than one line of text, a separate editor i
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.  
   
 ## Credits
-Tutorials:
+Tutorials:  
 -[Inquirer Tutorial](https://pakstech.com/blog/inquirer-js/)
-
 
   
 ## Contributing

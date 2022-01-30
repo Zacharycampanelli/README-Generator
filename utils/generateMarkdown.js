@@ -119,7 +119,7 @@ ${data.usage}
 `;
 
   if (data.confirmScreenshot === true) {
-    markdown += `
+    markdown += `  
 ${renderScreenshot(
   data.confirmScreenshot,
   data.screenshot,
